@@ -1,0 +1,22 @@
+.datch_card{
+background: #414F4F;
+border-radius: 10px;
+}
+
+.list_item{
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.list_title{
+    color: #FFFFFF;
+    
+}
+.list_cont{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.datch_container{
+  
+}

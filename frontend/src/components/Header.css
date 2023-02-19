@@ -1,0 +1,23 @@
+
+
+.main_block{
+display: flex;
+align-items: center;
+justify-content:space-between;
+padding-top: 10px;
+}
+
+.first_header{
+    display: flex;
+align-items: center;
+justify-content: space-around;
+}
+.sec_header{
+    display: flex;
+align-items: center;
+justify-content: space-around;
+}
+.btn_1{
+    padding-left: 10px;
+    padding-right: 10px;
+}

@@ -1,0 +1,839 @@
+[
+  {
+    "time": "2023-02-17T15:37:25.439816"
+  },
+  {
+    "name": "Эксгаустер № 1 (У-171)",
+    "values": [
+      {
+        "temperature": {
+          "value": 62.600006103515625,
+          "signal": "Normal"
+        },
+        "vibration_axial": {
+          "value": 0.27199074625968933,
+          "signal": "Normal"
+        },
+        "vibration_horizontal": {
+          "value": 0.23148147761821747,
+          "signal": "Normal"
+        },
+        "vibration_vertical": {
+          "value": 0.30092594027519226,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 57.599998474121094,
+          "signal": "Normal"
+        },
+        "vibration_axial": {
+          "value": 0.21412037312984467,
+          "signal": "Normal"
+        },
+        "vibration_horizontal": {
+          "value": 0.3471773564815521,
+          "signal": "Normal"
+        },
+        "vibration_vertical": {
+          "value": 0.5844907760620117,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 48.400001525878906,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 51.600006103515625,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 41.399993896484375,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 42.79999542236328,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 39.20000457763672,
+          "signal": "Normal"
+        },
+        "vibration_axial": {
+          "value": 1.2268518209457397,
+          "signal": "Normal"
+        },
+        "vibration_horizontal": {
+          "value": 0.46875,
+          "signal": "Normal"
+        },
+        "vibration_vertical": {
+          "value": 1.048467755317688,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 42.599998474121094,
+          "signal": "Normal"
+        },
+        "vibration_axial": {
+          "value": 0.8159722089767456,
+          "signal": "Normal"
+        },
+        "vibration_horizontal": {
+          "value": 0.5150462985038757,
+          "signal": "Normal"
+        },
+        "vibration_vertical": {
+          "value": 0.27199074625968933,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 42.79999542236328,
+          "signal": "Normal"
+        }
+      }
+    ],
+    "Охладитель": {
+      "Масло": {
+        "temperature_after": 30.699996948242188,
+        "temperature_before": 34.0
+      },
+      "Вода": {
+        "temperature_after": 26.400001525878906,
+        "temperature_before": 25.30000114440918
+      }
+    },
+    "Газовый коллектор": {
+      "temperature_before": 113.57431030273438,
+      "underpressure_before": 794.9942626953125
+    },
+    "Положение задвижки": {
+      "gas_valve_closed": 0.0,
+      "gas_valve_open": 1.0,
+      "gas_valve_position": "SM_Exgauster\\[4:6]"
+    },
+    "Главный привод": {
+      "rotor_current": "SM_Exgauster\\[4:2]",
+      "rotor_voltage": "SM_Exgauster\\[4:4]",
+      "stator_current": 185.6473388671875,
+      "stator_voltage": "SM_Exgauster\\[4:5]"
+    },
+    "Маслосистема": {
+      "oil_level": 78.94500732421875,
+      "oil_pressure": 2.1199986934661865
+    },
+    "Работа эксгаустера": {
+      "work": 1.0
+    }
+  },
+  {
+    "name": "Эксгаустер № 2 (У-172)",
+    "values": [
+      {
+        "temperature": {
+          "value": 53.30000305175781,
+          "signal": "Normal"
+        },
+        "vibration_axial": {
+          "value": 2.3553240299224854,
+          "signal": "Normal"
+        },
+        "vibration_horizontal": {
+          "value": 1.2731481790542603,
+          "signal": "Normal"
+        },
+        "vibration_vertical": {
+          "value": 1.7881944179534912,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 64.0,
+          "signal": "Normal"
+        },
+        "vibration_axial": {
+          "value": 1.7881944179534912,
+          "signal": "Normal"
+        },
+        "vibration_horizontal": {
+          "value": 1.0706018209457397,
+          "signal": "Normal"
+        },
+        "vibration_vertical": {
+          "value": 1.5625,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 46.599998474121094,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 45.400001525878906,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 36.599998474121094,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 36.900001525878906,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 33.900001525878906,
+          "signal": "Normal"
+        },
+        "vibration_axial": {
+          "value": 0.47453704476356506,
+          "signal": "Normal"
+        },
+        "vibration_horizontal": {
+          "value": 0.6192129254341125,
+          "signal": "Normal"
+        },
+        "vibration_vertical": {
+          "value": 0.7233796119689941,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 37.80000305175781,
+          "signal": "Normal"
+        },
+        "vibration_axial": {
+          "value": 1.7129629850387573,
+          "signal": "Normal"
+        },
+        "vibration_horizontal": {
+          "value": 1.498842477798462,
+          "signal": "Normal"
+        },
+        "vibration_vertical": {
+          "value": 0.7638888955116272,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 42.400001525878906,
+          "signal": "Normal"
+        }
+      }
+    ],
+    "Охладитель": {
+      "Масло": {
+        "temperature_after": 24.800003051757812,
+        "temperature_before": 28.899993896484375
+      },
+      "Вода": {
+        "temperature_after": 24.599998474121094,
+        "temperature_before": 24.699996948242188
+      }
+    },
+    "Газовый коллектор": {
+      "temperature_before": 115.17430877685547,
+      "underpressure_before": 734.9537353515625
+    },
+    "Положение задвижки": {
+      "gas_valve_closed": 0.0,
+      "gas_valve_open": 1.0,
+      "gas_valve_position": "SM_Exgauster\\[4:13]"
+    },
+    "Главный привод": {
+      "rotor_current": "SM_Exgauster\\[4:9]",
+      "rotor_voltage": "SM_Exgauster\\[4:11]",
+      "stator_current": 167.87388610839844,
+      "stator_voltage": "SM_Exgauster\\[4:12]"
+    },
+    "Маслосистема": {
+      "oil_level": 91.35401153564453,
+      "oil_pressure": 2.08587908744812
+    },
+    "Работа эксгаустера": {
+      "work": 1.0
+    }
+  },
+  {
+    "name": "Эксгаустер № 3 (Ф-171)",
+    "values": [
+      {
+        "temperature": {
+          "value": 48.79999542236328,
+          "signal": "Alarm"
+        },
+        "vibration_axial": {
+          "value": 0.8483421206474304,
+          "signal": "Warning"
+        },
+        "vibration_horizontal": {
+          "value": 1.313657522201538,
+          "signal": "Normal"
+        },
+        "vibration_vertical": {
+          "value": 1.3831018209457397,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 47.899993896484375,
+          "signal": "Normal"
+        },
+        "vibration_axial": {
+          "value": 1.3310184478759766,
+          "signal": "Normal"
+        },
+        "vibration_horizontal": {
+          "value": 1.9618055820465088,
+          "signal": "Normal"
+        },
+        "vibration_vertical": {
+          "value": 2.037036895751953,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 42.5,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 45.70000457763672,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 41.5,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 40.0,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 33.0,
+          "signal": "Normal"
+        },
+        "vibration_axial": {
+          "value": 1.8856337070465088,
+          "signal": "Normal"
+        },
+        "vibration_horizontal": {
+          "value": 2.031977653503418,
+          "signal": "Normal"
+        },
+        "vibration_vertical": {
+          "value": 1.9444444179534912,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 42.5,
+          "signal": "Normal"
+        },
+        "vibration_axial": {
+          "value": 1.0127315521240234,
+          "signal": "Normal"
+        },
+        "vibration_horizontal": {
+          "value": 1.5740740299224854,
+          "signal": "Normal"
+        },
+        "vibration_vertical": {
+          "value": 2.3553240299224854,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 40.20000457763672,
+          "signal": "Normal"
+        }
+      }
+    ],
+    "Охладитель": {
+      "Масло": {
+        "temperature_after": 35.0,
+        "temperature_before": 36.69999694824219
+      },
+      "Вода": {
+        "temperature_after": 25.800003051757812,
+        "temperature_before": 23.400001525878906
+      }
+    },
+    "Газовый коллектор": {
+      "temperature_before": 113.09769439697266,
+      "underpressure_before": 763.16552734375
+    },
+    "Положение задвижки": {
+      "gas_valve_closed": 0.0,
+      "gas_valve_open": 1.0,
+      "gas_valve_position": 10.0
+    },
+    "Главный привод": {
+      "rotor_current": 1863.0,
+      "rotor_voltage": 0.0,
+      "stator_current": 1996.0,
+      "stator_voltage": 107.0
+    },
+    "Маслосистема": {
+      "oil_level": 69.5999984741211,
+      "oil_pressure": 0.8040000200271606
+    },
+    "Работа эксгаустера": {
+      "work": 1.0
+    }
+  },
+  {
+    "name": "Эксгаустер № 4 (Ф-172)",
+    "values": [
+      {
+        "temperature": {
+          "value": 51.69999694824219,
+          "signal": "Normal"
+        },
+        "vibration_axial": {
+          "value": 0.5439814925193787,
+          "signal": "Normal"
+        },
+        "vibration_horizontal": {
+          "value": 1.875,
+          "signal": "Normal"
+        },
+        "vibration_vertical": {
+          "value": 1.846064805984497,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 54.400001525878906,
+          "signal": "Normal"
+        },
+        "vibration_axial": {
+          "value": 1.1516203880310059,
+          "signal": "Normal"
+        },
+        "vibration_horizontal": {
+          "value": 1.6145832538604736,
+          "signal": "Normal"
+        },
+        "vibration_vertical": {
+          "value": 2.314814805984497,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 45.20000457763672,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 49.19999694824219,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 44.70000457763672,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 43.5,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 34.69999694824219,
+          "signal": "Normal"
+        },
+        "vibration_axial": {
+          "value": 2.3958332538604736,
+          "signal": "Normal"
+        },
+        "vibration_horizontal": {
+          "value": 1.278935194015503,
+          "signal": "Normal"
+        },
+        "vibration_vertical": {
+          "value": 1.221064805984497,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 47.399993896484375,
+          "signal": "Normal"
+        },
+        "vibration_axial": {
+          "value": 1.626157522201538,
+          "signal": "Normal"
+        },
+        "vibration_horizontal": {
+          "value": 0.9664351344108582,
+          "signal": "Normal"
+        },
+        "vibration_vertical": {
+          "value": 0.5902777910232544,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 44.0,
+          "signal": "Normal"
+        }
+      }
+    ],
+    "Охладитель": {
+      "Масло": {
+        "temperature_after": 40.5,
+        "temperature_before": 34.099998474121094
+      },
+      "Вода": {
+        "temperature_after": 23.29999542236328,
+        "temperature_before": 25.400001525878906
+      }
+    },
+    "Газовый коллектор": {
+      "temperature_before": 118.19769287109375,
+      "underpressure_before": 770.3992919921875
+    },
+    "Положение задвижки": {
+      "gas_valve_closed": 0.0,
+      "gas_valve_open": 1.0,
+      "gas_valve_position": 10.0
+    },
+    "Главный привод": {
+      "rotor_current": 1070.0,
+      "rotor_voltage": 2.0,
+      "stator_current": 1896.0,
+      "stator_voltage": 107.0
+    },
+    "Маслосистема": {
+      "oil_level": 69.5999984741211,
+      "oil_pressure": 0.9139999747276306
+    },
+    "Работа эксгаустера": {
+      "work": 1.0
+    }
+  },
+  {
+    "name": "Эксгаустер № 5 (X-171)",
+    "values": [
+      {
+        "temperature": {
+          "value": 44.0,
+          "signal": "Normal"
+        },
+        "vibration_axial": {
+          "value": 0.8449074029922485,
+          "signal": "Normal"
+        },
+        "vibration_horizontal": {
+          "value": 1.2094907760620117,
+          "signal": "Normal"
+        },
+        "vibration_vertical": {
+          "value": 1.1516203880310059,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 53.5,
+          "signal": "Normal"
+        },
+        "vibration_axial": {
+          "value": 0.8969907760620117,
+          "signal": "Normal"
+        },
+        "vibration_horizontal": {
+          "value": 1.064814805984497,
+          "signal": "Normal"
+        },
+        "vibration_vertical": {
+          "value": 1.278935194015503,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 43.5,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 52.30000305175781,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 48.400001525878906,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 47.19999694824219,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 36.20000457763672,
+          "signal": "Normal"
+        },
+        "vibration_axial": {
+          "value": 1.892361044883728,
+          "signal": "Normal"
+        },
+        "vibration_horizontal": {
+          "value": 0.8393843173980713,
+          "signal": "Normal"
+        },
+        "vibration_vertical": {
+          "value": 0.6076388955116272,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 41.80000305175781,
+          "signal": "Normal"
+        },
+        "vibration_axial": {
+          "value": 5.8854169845581055,
+          "signal": "Warning"
+        },
+        "vibration_horizontal": {
+          "value": 0.8391724824905396,
+          "signal": "Normal"
+        },
+        "vibration_vertical": {
+          "value": 0.47453704476356506,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 40.5,
+          "signal": "Normal"
+        }
+      }
+    ],
+    "Охладитель": {
+      "Масло": {
+        "temperature_after": 34.099998474121094,
+        "temperature_before": 33.70000457763672
+      },
+      "Вода": {
+        "temperature_after": -3276.800048828125,
+        "temperature_before": 23.699996948242188
+      }
+    },
+    "Газовый коллектор": {
+      "temperature_before": 90.1456069946289,
+      "underpressure_before": 651.7650146484375
+    },
+    "Положение задвижки": {
+      "gas_valve_closed": 1.0,
+      "gas_valve_open": 1.0,
+      "gas_valve_position": 10.0
+    },
+    "Главный привод": {
+      "rotor_current": 1923.0,
+      "rotor_voltage": 463.0,
+      "stator_current": 1863.0,
+      "stator_voltage": 107.0
+    },
+    "Маслосистема": {
+      "oil_level": 83.9000015258789,
+      "oil_pressure": 0.7570000290870667
+    },
+    "Работа эксгаустера": {
+      "work": 1.0
+    }
+  },
+  {
+    "name": "Эксгаустер № 6 (X-172)",
+    "values": [
+      {
+        "temperature": {
+          "value": 54.79999542236328,
+          "signal": "Normal"
+        },
+        "vibration_axial": {
+          "value": 0.23726852238178253,
+          "signal": "Normal"
+        },
+        "vibration_horizontal": {
+          "value": 0.7638888955116272,
+          "signal": "Normal"
+        },
+        "vibration_vertical": {
+          "value": 0.5324074029922485,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 51.100006103515625,
+          "signal": "Normal"
+        },
+        "vibration_axial": {
+          "value": 1.267361044883728,
+          "signal": "Normal"
+        },
+        "vibration_horizontal": {
+          "value": 0.6307870149612427,
+          "signal": "Normal"
+        },
+        "vibration_vertical": {
+          "value": 0.5787037014961243,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 51.90000915527344,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 50.19999694824219,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 55.29999542236328,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 50.100006103515625,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 41.30000305175781,
+          "signal": "Normal"
+        },
+        "vibration_axial": {
+          "value": 1.2268518209457397,
+          "signal": "Normal"
+        },
+        "vibration_horizontal": {
+          "value": 0.6655092239379883,
+          "signal": "Normal"
+        },
+        "vibration_vertical": {
+          "value": 0.5324074029922485,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 41.399993896484375,
+          "signal": "Normal"
+        },
+        "vibration_axial": {
+          "value": 0.6423611044883728,
+          "signal": "Normal"
+        },
+        "vibration_horizontal": {
+          "value": 0.4166666865348816,
+          "signal": "Normal"
+        },
+        "vibration_vertical": {
+          "value": 0.3029170632362366,
+          "signal": "Normal"
+        }
+      },
+      {
+        "temperature": {
+          "value": 39.099998474121094,
+          "signal": "Normal"
+        }
+      }
+    ],
+    "Охладитель": {
+      "Масло": {
+        "temperature_after": 39.80000305175781,
+        "temperature_before": 42.19999694824219
+      },
+      "Вода": {
+        "temperature_after": -3276.800048828125,
+        "temperature_before": 20.20000457763672
+      }
+    },
+    "Газовый коллектор": {
+      "temperature_before": 95.31342315673828,
+      "underpressure_before": 622.1065063476562
+    },
+    "Положение задвижки": {
+      "gas_valve_closed": 1.0,
+      "gas_valve_open": 1.0,
+      "gas_valve_position": 10.0
+    },
+    "Главный привод": {
+      "rotor_current": 2079.0,
+      "rotor_voltage": 527.0,
+      "stator_current": 1943.0,
+      "stator_voltage": 106.0
+    },
+    "Маслосистема": {
+      "oil_level": 86.5,
+      "oil_pressure": 1.8940000534057617
+    },
+    "Работа эксгаустера": {
+      "work": 1.0
+    }
+  }
+]

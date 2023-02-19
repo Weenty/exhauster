@@ -1,0 +1,19 @@
+
+
+  .card_title{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    background-color: #6E6E6D;
+    border-radius:'5px';
+  }
+  .sidebar{
+    border: 2px solid black;
+  }
+  .item{
+    color: #6E6E6D;
+display: flex;
+align-items: center;
+justify-content: space-around;
+  }

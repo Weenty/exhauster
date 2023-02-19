@@ -1,0 +1,9 @@
+
+.card_container{
+    padding-top: 30px;
+display: flex;
+align-items: center;
+justify-content: space-around;
+}
+
+ 
