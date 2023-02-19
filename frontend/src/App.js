@@ -37,7 +37,7 @@ function App() {
   const [data, setData] = useState([]);
 
   // const io = require('socket.io-client');
-  const socket = io('https://FloralwhiteCheeryDominspector.flaky12r.repl.co');
+  const socket = io('http://127.0.0.1/');
 
   socket.on('connect', () => {
     console.log('Connected to server');
